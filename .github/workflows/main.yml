@@ -22,9 +22,7 @@ jobs:
       with:
         upstream_repository: ronreiter/interactive-tutorials
         upstream_branch: master
-        target_branch: master                       # optional
-        github_token: ${{ secrets.GITHUB_TOKEN }}   # optional, for accessing repos that requir authentication
-        
+  
     # Step 3: Print a helpful timestamp for your records (optional)
     - name: Timestamp
       run: date
