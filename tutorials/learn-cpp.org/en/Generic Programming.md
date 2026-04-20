@@ -81,8 +81,8 @@ Tutorial Code
 Expected Output
 ---------------
 
-    p1: x:100 y:100
-    p2: x:5 y:5
+    p1: x: 100 y: 100
+    p2: x: 5 y: 5
 
 Solution
 --------
